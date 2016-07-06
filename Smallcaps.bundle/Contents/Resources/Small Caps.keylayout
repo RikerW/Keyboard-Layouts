@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.3.70 on 2016-04-07 at 17:12 (PDT)-->
-<keyboard group="126" id="-16794" name="Small Caps" maxout="1">
+<!--Last edited by Ukelele version 3.0.3.70 on 2016-07-06 at 14:36 (PDT)-->
+<keyboard group="126" id="-18855" name="Small Caps" maxout="11">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -479,24 +479,24 @@
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
 		<keyMap index="4">
-			<key code="0" output="Å"/>
-			<key code="1" output="Í"/>
-			<key code="2" output="Î"/>
+			<key code="0" output="ᴬ"/>
+			<key code="1" output="ಠ"/>
+			<key code="2" output="ᴰ"/>
 			<key code="3" output="Ï"/>
-			<key code="4" output="Ó"/>
-			<key code="5" output="˝"/>
-			<key code="6" output="¸"/>
-			<key code="7" output="˛"/>
-			<key code="8" output="Ç"/>
-			<key code="9" output="◊"/>
+			<key code="4" output="ᴴ"/>
+			<key code="5" output="ᴳ"/>
+			<key code="6" output="_"/>
+			<key code="7" output=" ͡°"/>
+			<key code="8" output=" ͜ʖ"/>
+			<key code="9" output="ⱽ"/>
 			<key code="10" output="±"/>
-			<key code="11" output="ı"/>
-			<key code="12" output="Œ"/>
-			<key code="13" output="„"/>
-			<key code="14" output="´"/>
-			<key code="15" output="‰"/>
-			<key code="16" output="Á"/>
-			<key code="17" output="ˇ"/>
+			<key code="11" output="ᴮ"/>
+			<key code="12" output="\\"/>
+			<key code="13" output="ᵂ"/>
+			<key code="14" output="ᴱ"/>
+			<key code="15" output="ᴿ"/>
+			<key code="16" output="¯"/>
+			<key code="17" output="ᵀ"/>
 			<key code="18" output="⁄"/>
 			<key code="19" output="€"/>
 			<key code="20" output="‹"/>
@@ -509,24 +509,24 @@
 			<key code="27" output="—"/>
 			<key code="28" output="°"/>
 			<key code="29" output="‚"/>
-			<key code="30" output="’"/>
-			<key code="31" output="Ø"/>
-			<key code="32" output="¨"/>
-			<key code="33" output="”"/>
-			<key code="34" output="ˆ"/>
-			<key code="35" output="∏"/>
+			<key code="30" output="( ͡° ͜ʖ ͡°)"/>
+			<key code="31" output="ᴼ"/>
+			<key code="32" output="ᵁ"/>
+			<key code="33" output="¯\_(ツ)_/¯"/>
+			<key code="34" output="ᴵ"/>
+			<key code="35" output="ᴾ"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="Ò"/>
-			<key code="38" output="Ô"/>
-			<key code="39" output="Æ"/>
-			<key code="40" output=""/>
-			<key code="41" output="Ú"/>
-			<key code="42" output="»"/>
+			<key code="37" output="ᴸ"/>
+			<key code="38" output="ᴶ"/>
+			<key code="39" output="¯"/>
+			<key code="40" output="ᴷ"/>
+			<key code="41" output="ツ"/>
+			<key code="42" output="ಠ_ಠ"/>
 			<key code="43" output="¯"/>
-			<key code="44" output="¿"/>
-			<key code="45" output="˜"/>
-			<key code="46" output="Â"/>
-			<key code="47" output="˘"/>
+			<key code="44" output="v"/>
+			<key code="45" output="ᴺ"/>
+			<key code="46" output="ᴹ"/>
+			<key code="47" output="c"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
 			<key code="50" output="`"/>
