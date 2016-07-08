@@ -2,12 +2,11 @@
 
 The title of this would be in small caps if github let me. Q_Q
 
-This is a keyboard layout bundle collection I created, it runs only on OS X I think.  
+This is a keyboard layout bundle collection I created. I wrote the OS X ones, and Conor O'Brien wrote the windows small caps.
 
-If you figure out a way to get it working on Windows, start an issue descibing how.
 
 On OS X, put the 3 bundles (normally looks like a lego AFAIK) in `~/Library/Keyboard Layouts/`.
 
-On Windows, I have no clue how, please tell me if you know. :D
+On Windows, [read these instructions](https://github.com/RikerW/Keyboard-Layouts/blob/master/Windows/Smallcaps/README.md).
 
 
