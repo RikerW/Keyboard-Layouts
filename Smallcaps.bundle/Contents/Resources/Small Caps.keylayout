@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.3.70 on 2016-07-06 at 15:17 (PDT)-->
-<keyboard group="126" id="-18855" name="Small Caps" maxout="11">
+<!--Last edited by Ukelele version 3.0.3.70 on 2016-09-30 at 15:45 (PDT)-->
+<keyboard group="126" id="-18855" name="Small Caps" maxout="10">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -509,7 +509,7 @@
 			<key code="27" output="—"/>
 			<key code="28" output="°"/>
 			<key code="29" output="‚"/>
-			<key code="30" output="( ͡° ͜ʖ ͡°)"/>
+			<key code="30" output="( ͡° ͜ʖ °)"/>
 			<key code="31" output="ᴼ"/>
 			<key code="32" output="ᵁ"/>
 			<key code="33" output="¯\_(ツ)_/¯"/>
